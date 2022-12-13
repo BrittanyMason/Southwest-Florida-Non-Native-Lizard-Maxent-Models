@@ -4,7 +4,7 @@ This code is used to create a Maximum Entropy (Maxent) species distribution mode
 
 iNaturalist data was downloaded from the Global Biodiversity Information Facility (GBIF) (https://doi.org/10.15468/dl.z73q6m).
 
-The landcover map was acquired from Southwest Florida Water Management District and can be downloaded online at https://www.arcgis.com/home/item.html?id=bad341979b7b4eff856d5e173a57b955. I transformed this landcover map into 15x15 meter raster in the UTM WGS 1984 Zone 17N projection. 
+The landcover map was acquired from Southwest Florida Water Management District and can be downloaded online at https://www.arcgis.com/home/item.html?id=bad341979b7b4eff856d5e173a57b955. I transformed this landcover map into a 15x15 meter raster in the UTM WGS 1984 Zone 17N projection. 
 
 Citations for GBIF data:
 
